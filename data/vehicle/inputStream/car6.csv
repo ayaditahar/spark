@@ -1,0 +1,51 @@
+Car_Name,Year,Selling_Price,Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner
+ciaz,2017,7.75,9.29,37000,Petrol,Dealer,Automatic,0
+fortuner,2012,14.9,30.61,104707,Diesel,Dealer,Automatic,0
+fortuner,2015,23,30.61,40000,Diesel,Dealer,Automatic,0
+innova,2017,18,19.77,15000,Diesel,Dealer,Automatic,0
+fortuner,2013,16,30.61,135000,Diesel,Individual,Automatic,0
+innova,2005,2.75,10.21,90000,Petrol,Individual,Manual,0
+corolla altis,2009,3.6,15.04,70000,Petrol,Dealer,Automatic,0
+etios cross,2015,4.5,7.27,40534,Petrol,Dealer,Manual,0
+corolla altis,2010,4.75,18.54,50000,Petrol,Dealer,Manual,0
+etios g,2014,4.1,6.8,39485,Petrol,Dealer,Manual,1
+fortuner,2014,19.99,35.96,41000,Diesel,Dealer,Automatic,0
+corolla altis,2013,6.95,18.61,40001,Petrol,Dealer,Manual,0
+etios cross,2015,4.5,7.7,40588,Petrol,Dealer,Manual,0
+fortuner,2014,18.75,35.96,78000,Diesel,Dealer,Automatic,0
+fortuner,2015,23.5,35.96,47000,Diesel,Dealer,Automatic,0
+fortuner,2017,33,36.23,6000,Diesel,Dealer,Automatic,0
+etios liva,2014,4.75,6.95,45000,Diesel,Dealer,Manual,0
+innova,2017,19.75,23.15,11000,Petrol,Dealer,Automatic,0
+fortuner,2010,9.25,20.45,59000,Diesel,Dealer,Manual,0
+corolla altis,2011,4.35,13.74,88000,Petrol,Dealer,Manual,0
+corolla altis,2016,14.25,20.91,12000,Petrol,Dealer,Manual,0
+etios liva,2014,3.95,6.76,71000,Diesel,Dealer,Manual,0
+corolla altis,2011,4.5,12.48,45000,Diesel,Dealer,Manual,0
+corolla altis,2013,7.45,18.61,56001,Petrol,Dealer,Manual,0
+etios liva,2011,2.65,5.71,43000,Petrol,Dealer,Manual,0
+etios cross,2014,4.9,8.93,83000,Diesel,Dealer,Manual,0
+etios g,2015,3.95,6.8,36000,Petrol,Dealer,Manual,0
+corolla altis,2013,5.5,14.68,72000,Petrol,Dealer,Manual,0
+corolla,2004,1.5,12.35,135154,Petrol,Dealer,Automatic,0
+corolla altis,2010,5.25,22.83,80000,Petrol,Dealer,Automatic,0
+fortuner,2012,14.5,30.61,89000,Diesel,Dealer,Automatic,0
+corolla altis,2016,14.73,14.89,23000,Diesel,Dealer,Manual,0
+etios gd,2015,4.75,7.85,40000,Diesel,Dealer,Manual,0
+innova,2017,23,25.39,15000,Diesel,Dealer,Automatic,0
+innova,2015,12.5,13.46,38000,Diesel,Dealer,Manual,0
+innova,2005,3.49,13.46,197176,Diesel,Dealer,Manual,0
+camry,2006,2.5,23.73,142000,Petrol,Individual,Automatic,3
+land cruiser,2010,35,92.6,78000,Diesel,Dealer,Manual,0
+corolla altis,2012,5.9,13.74,56000,Petrol,Dealer,Manual,0
+etios liva,2013,3.45,6.05,47000,Petrol,Dealer,Manual,0
+etios g,2014,4.75,6.76,40000,Petrol,Dealer,Manual,0
+corolla altis,2009,3.8,18.61,62000,Petrol,Dealer,Manual,0
+innova,2014,11.25,16.09,58242,Diesel,Dealer,Manual,0
+innova,2005,3.51,13.7,75000,Petrol,Dealer,Manual,0
+fortuner,2015,23,30.61,40000,Diesel,Dealer,Automatic,0
+corolla altis,2008,4,22.78,89000,Petrol,Dealer,Automatic,0
+corolla altis,2012,5.85,18.61,72000,Petrol,Dealer,Manual,0
+innova,2016,20.75,25.39,29000,Diesel,Dealer,Automatic,0
+corolla altis,2017,17,18.64,8700,Petrol,Dealer,Manual,0
+corolla altis,2013,7.05,18.61,45000,Petrol,Dealer,Manual,0

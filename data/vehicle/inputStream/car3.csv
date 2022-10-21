@@ -1,0 +1,11 @@
+Car_Name,Year,Selling_Price,Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner
+sx4,2010,2.65,7.98,41442,Petrol,Dealer,Manual,0
+alto k10,2016,2.85,3.95,25000,Petrol,Dealer,Manual,0
+ignis,2017,4.9,5.71,2400,Petrol,Dealer,Manual,0
+sx4,2011,4.4,8.01,50000,Petrol,Dealer,Automatic,0
+alto k10,2014,2.5,3.46,45280,Petrol,Dealer,Manual,0
+wagon r,2013,2.9,4.41,56879,Petrol,Dealer,Manual,0
+swift,2011,3,4.99,20000,Petrol,Dealer,Manual,0
+swift,2013,4.15,5.87,55138,Petrol,Dealer,Manual,0
+swift,2017,6,6.49,16200,Petrol,Individual,Manual,0
+alto k10,2010,1.95,3.95,44542,Petrol,Dealer,Manual,0
